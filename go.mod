@@ -1,3 +1,3 @@
-module github.com/sabyasachi-mukherjee/go_with_tests
+module example.com/gwt
 
 go 1.22.0
